@@ -20,3 +20,5 @@ $$\frac{w_i}{n_i}+c\sqrt{\frac{\ln{t}}{n_i}}$$
 
 ## 運行結果
 
+https://github.com/ohmygoose0410/TicTacToe/assets/46198089/1e4f94f4-6af1-4cf7-90be-99d015494c69
+
